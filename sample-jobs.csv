@@ -1,0 +1,6 @@
+client,job,words,rate_per_word,hours,invoice_date,terms_days,paid_date
+Acme Agency,Manual EN-DE,4200,0.09,9,2026-08-01,30,2026-09-10
+Acme Agency,Website,2500,0.09,6,2026-09-05,30,
+Nordlicht GmbH,Contract summary,1800,0.12,5,2026-07-15,14,2026-07-20
+Nordlicht GmbH,Brochure,3000,0.11,8,2026-10-01,14,
+Direct client,Newsletter,900,0.14,3,,30,
